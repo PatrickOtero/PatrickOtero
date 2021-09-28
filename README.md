@@ -25,7 +25,7 @@ Sou um amante da área da tecnologia de informação desde pequeno. Minha paixã
 Em suma, a tecnologia capaz de nos fornecer essas máquinas que fazem milhões de cálculos e impulsos de energia por segundo, graças a componentes microscópicos como os transistores miniaturizados a nível ULSI (Ultra Large Scale Integration), me faziam pensar estar diante de uma invenção além da capacidade humana, ou pelo menos, da minha própria. 
 
 Aos meus 24 anos então decidi ingressar definitivamente nesta área que me gera tanto fascínio, tantas perguntas e que me deixa tão admirado com as suas complexidades, para que, finalmente, eu as pudesse compreender a fundo, de fato. 
-Por isso, eu sei que serei uma boa adição para qualquer empresa da área que me contratar, pois me esforçarei, me dedicarei e me compromissarei ao serviço que me for atribuído, tudo isso devido à grande paixão que sinto pela área de T.I.
+Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos conhecimentos necessários, serei uma boa adição para qualquer empresa da área que me contratar, pois me esforçarei, me dedicarei e me compromissarei ao serviço que me for atribuído, tudo isso devido à grande paixão que sinto pela grandiosidade das possibilidades da tecnologia da informação.
 
 ---
 <span id="E.P"></span>
