@@ -9,10 +9,10 @@
 </h4>
 
 <p align="center">
- <a>Sobre</a> •
- <a>Escolaridade e profissão</a> •
- <a>Linguagens que estou estudando</a> • 
- <a>Programas que uso</a> • 
+ <a href="#">Sobre</a> •
+ <a href="#">Escolaridade e profissão</a> •
+ <a href="#">Linguagens que estou estudando</a> • 
+ <a href="#">Programas que uso</a> • 
 </p>
 
 
