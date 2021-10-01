@@ -9,16 +9,16 @@
 </h4>
 
 <p align="center">
- <a href="#sobre">Sobre</a> •
- <a href="#E.P">Escolaridade e profissão</a> •
- <a href="#L.Q.E.E">Linguagens que estou estudando</a> • 
- <a href="#P.U">Programas que uso</a> • 
+ <a>Sobre</a> •
+ <a>Escolaridade e profissão</a> •
+ <a>Linguagens que estou estudando</a> • 
+ <a>Programas que uso</a> • 
 </p>
 
 
  ## Permita-me falar um pouco sobre mim:
 
-<h4 id="sobre">Patrick da Rocha Otero, 24 anos.</h4>
+<h4>Patrick da Rocha Otero, 24 anos.</h4>
 
 Sou um amante da área da tecnologia de informação desde pequeno. Minha paixão começou com a simplicidade e ingenuidade em me divertir com jogos eletrônicos e, com o tempo, evoluiu para o interesse em compreender a forma como cada detalhe de tudo que eu vejo apresentado na tela (software) é criado a partir de componentes físicos (hardware) com tamanha precisão, como por exemplo: Como conseguiram fazer com o que um mouse fosse capaz de mover um pointer através de interfaces e também, como essas interfaces permitem interação? Como o hardware interpreta comandos de dispositivos de entrada e os transforma em um resultado gráfico em dispositivos de saída? E mais complexo ainda, como conseguimos armazenar informações complexas eletricamente, separadamente, acessíveis, em componentes físicos que ainda conseguem ser representadas visualmente e virtualmente?
 
@@ -28,7 +28,6 @@ Aos meus 24 anos então decidi ingressar definitivamente nesta área que me gera
 Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos conhecimentos necessários, serei uma boa adição para qualquer empresa da área que me contratar, pois me esforçarei, me dedicarei e me compromissarei ao serviço que me for atribuído, tudo isso devido à grande paixão que sinto pela grandiosidade das possibilidades da tecnologia da informação.
 
 ---
-<span id="E.P"></span>
 
 
 
@@ -49,7 +48,6 @@ Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos
 ---
 
 ---
-<span id="L.Q.E.E"></span>
 
 
 
@@ -66,7 +64,6 @@ Lembrando que estou em fase de aprendizado:
 
 Graças à graduação que estou cursando, consegui obter uma boa base em lógica de programação, utilizando como prática pseudocódigos e a própria linguagem C.
 
-<span id="P.U"></span>
 
 
 
