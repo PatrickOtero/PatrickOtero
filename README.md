@@ -35,13 +35,19 @@ Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos
 
   - [x] <strong>Ensino Superior:</strong>
       - [x] <strong>Ead</strong>
-           - [x] Cursando:
+           - [x] Cursando
                - <strong>ADS, Análise e Desenvolvimento de Sistemas. Unicesumar</strong>.
 
  - [x] <strong>Cursos intensivos:</strong>
-      - [x] Programação:
-          - [x] - Cursando:
+      - [x] Programação Front-end e Back-end
+          - [x] - Cursando
                 <strong>- Desenvolvimento de softwares, Cubos Academy.</strong>
+
+ - [x] <strong>Certificados reconhecidos de idiomas:</strong>
+      - [x] Inglês
+                <strong>- EF SET English Certificate 76/100 (C2 Proficient)</strong>
+      - [x] Link do certificado
+                <strong>- https://www.efset.org/cert/kjfCZK</strong>
 
  - [x] Desempregado
     - [x] - Sem experiência na área.
@@ -56,11 +62,14 @@ Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos
 Lembrando que estou em fase de aprendizado:
 
 1. <strong>Backend:</strong>
-    - Javascript
-    - C
+    - Javascript puro.
+    - C.
+    - Sql.
+    - Nodejs, servidores Express, API's em padrão REST.
 2. <strong>Frontend:</strong>
-    - Html
-    - Css, padrão e flexbox.
+    - Html.
+    - Css.
+    - React.
 
 Graças à graduação que estou cursando, consegui obter uma boa base em lógica de programação, utilizando como prática pseudocódigos e a própria linguagem C.
 
