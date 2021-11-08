@@ -71,14 +71,11 @@ Lembrando que estou em fase de aprendizado:
     - Css.
     - React.
 
-Graças à graduação que estou cursando, consegui obter uma boa base em lógica de programação, utilizando como prática pseudocódigos e a própria linguagem C.
-
-
-
-
 ### Programas usados para estudar e praticar programação:
 
 - [x] - DevC++ 
 - [x] - VisuAlg
 - [x] - Sublime
-- [x] - VsCode (o melhor que usei até agora)
+- [x] - VsCode
+- [x] - Insomnia
+- [x] - Beekeeper
