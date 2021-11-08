@@ -78,4 +78,5 @@ Lembrando que estou em fase de aprendizado:
 - [x] - Sublime
 - [x] - VsCode
 - [x] - Insomnia
+- [x] - PostgreSQL
 - [x] - Beekeeper
