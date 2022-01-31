@@ -62,10 +62,11 @@ Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos
 Lembrando que estou em fase de aprendizado:
 
 1. <strong>Backend:</strong>
-    - Javascript puro.
+    - Javascript.
     - C.
-    - postgreSQL.
-    - Nodejs, servidores Express, API's em padrão REST.
+    - PostgreSQL.
+    - Node.js.
+    - API's em padrão REST.
 2. <strong>Frontend:</strong>
     - Html.
     - Css.
