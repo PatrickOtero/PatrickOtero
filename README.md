@@ -47,9 +47,6 @@ Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos
 
 ---
 
- ### Motor usado: Node.js
- ### padrão de construção de API: RESTfull.
-
 ## Linguagens que uso
 
 1. <strong>Backend:</strong>
@@ -61,3 +58,6 @@ Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos
     - React.
 
 3. Noções básicas em C.
+
+ ### Motor que uso: Node.js
+ ### padrão de construção de API: RESTfull.
