@@ -54,7 +54,6 @@ Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos
 1. <strong>Backend:</strong>
     - Javascript.
     - SQL (postgreSQL).
-    - API's em padrão REST.
 2. <strong>Frontend:</strong>
     - Html.
     - Css.
