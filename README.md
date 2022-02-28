@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Desenvolvedor de software em progresso! 🚧
+  Desenvolvedor back e front em Node.js
 </h4>
 
 <p align="center">
