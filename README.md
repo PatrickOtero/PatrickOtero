@@ -4,9 +4,9 @@
     <img alt="Patrick da Rocha Otero" title="#Patrick da Rocha Otero" src="/resources/Header.gif"/>
 </h1>
 
-<h4 align="center"> 
+<h2 align="center"> 
   Desenvolvedor back e front em Node.js
-</h4>
+</h2>
 
  ## Permita-me falar um pouco sobre mim:
 
