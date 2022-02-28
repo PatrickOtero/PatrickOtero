@@ -8,14 +8,6 @@
   Desenvolvedor back e front em Node.js
 </h4>
 
-<p align="center">
- <a href="#">Sobre</a> •
- <a href="#">Escolaridade e profissão</a> •
- <a href="#">Linguagens que estou estudando</a> • 
- <a href="#">Programas que uso</a> • 
-</p>
-
-
  ## Permita-me falar um pouco sobre mim:
 
 <h4>Patrick da Rocha Otero, 24 anos.</h4>
