@@ -47,9 +47,10 @@ Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos
 
 ---
 
+ ### Motor usado: Node.js
+ ### padrão de construção de API: RESTfull.
 
-
-## Linguagens das quais uso
+## Linguagens que uso
 
 1. <strong>Backend:</strong>
     - Javascript.
