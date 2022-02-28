@@ -49,27 +49,15 @@ Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos
 
 
 
-## Linguagens das quais estou estudando
-
-Lembrando que estou em fase de aprendizado:
+## Linguagens das quais uso
 
 1. <strong>Backend:</strong>
     - Javascript.
-    - C.
     - PostgreSQL.
-    - Node.js.
     - API's em padrão REST.
 2. <strong>Frontend:</strong>
     - Html.
     - Css.
     - React.
 
-### Programas usados para estudar e praticar programação:
-
-- [x] - DevC++ 
-- [x] - VisuAlg
-- [x] - Sublime
-- [x] - VsCode
-- [x] - Insomnia
-- [x] - PostgreSQL
-- [x] - Beekeeper
+3. Noções básicas em C.
