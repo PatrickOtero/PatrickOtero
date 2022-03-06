@@ -35,8 +35,8 @@ Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos
 
  - [x] <strong>Cursos intensivos:</strong>
       - [x] Programação Front-end e Back-end
-          - [x] - Concluídos:
-                <strong>- Desenvolvimento de softwares da Cubos Academy.</strong>
+          - [x] Concluídos:
+                - <strong>Desenvolvimento de softwares da Cubos Academy</strong>
 
  - [x] <strong>Certificados reconhecidos de idiomas:</strong>
       - [x] Inglês
