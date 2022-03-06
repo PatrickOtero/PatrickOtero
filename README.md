@@ -27,13 +27,16 @@ Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos
 
   - [x] <strong>Ensino Superior:</strong>
       - [x] <strong>Ead</strong>
-           - [x] Cursando
-               - <strong>ADS, Análise e Desenvolvimento de Sistemas. Unicesumar</strong>.
+           - [x] Em progresso:
+               - <strong> Análise e Desenvolvimento de Sistemas na Unicesumar</strong>.
+           - [x] Concluídos:
+                - Nenhum.
+                
 
  - [x] <strong>Cursos intensivos:</strong>
       - [x] Programação Front-end e Back-end
-          - [x] - Cursando
-                <strong>- Desenvolvimento de softwares, Cubos Academy.</strong>
+          - [x] - Concluídos:
+                <strong>- Desenvolvimento de softwares da Cubos Academy.</strong>
 
  - [x] <strong>Certificados reconhecidos de idiomas:</strong>
       - [x] Inglês
