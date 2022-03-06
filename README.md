@@ -63,5 +63,5 @@ Por isso, eu sei que, após o devido tempo de preparo através da obtenção dos
 3. Noções básicas em C.
 
 ### Informações importantes:
-    - Motor que uso: Node.js
-    - padrão de princípios para a criação de API's: REST.
+  - Motor que uso: Node.js
+  - padrão de princípios para a criação de API's: REST.
