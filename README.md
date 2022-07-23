@@ -20,7 +20,7 @@ Aos meus 24 anos então decidi ingressar definitivamente nesta área que me gera
 
 Iniciei então meus estudos na área de T.I em dezembro de 2020 ingressando em uma graduação em nível tecnólogo em Análise e Desenvolvimento de Sistemas para entender de uma vez por todas qual setor tecnológico seguiria. Não demorou muito até que eu descobrisse que minha paixão está no desenvolvimento de softwares. Devido à isso, procurei por cursos com programas gratuitos que permitissem a formação sem custos, ou com custos após contratação, como o programa Sucesso Compartilhado, por exemplo, oferecido pela Provi, encontrando assim o curso de Desenvolvimento de Softwares da edtech Cubos Academy. O curso foi iniciado em agosto de 2022 e finalizado com sucesso em março de 2022, onde me familiarizei com Node, Javascript, PostgreSQL, React.js, Html e Css.
 
-Participei como residente voluntário temporário em um projeto real com cliente real na edtech Cubos Academy entre junho e julho de 2022, onde pude me familiarizar com tecnologias de testes unitários e integrais como Jest e Supertest e também participei de eventos da área como os atuais hackatons da ProviHack para aprimorar meus conhecimentos como desenvolvedor full stack e aumentar minhas chances de conseguir minha primeira oportunidade no mercado da área.
+Participei como residente voluntário temporário em um projeto real com cliente real na edtech Cubos Academy entre junho e julho de 2022, onde pude me familiarizar com tecnologias de testes unitários e integrais como Jest e Supertest e com o conceito e a prática de "migrations" e "seeds" com "knex.js". Também participei de eventos da área como os atuais hackatons da ProviHack para aprimorar meus conhecimentos como desenvolvedor full stack e aumentar minhas chances de conseguir minha primeira oportunidade no mercado da área.
 
 ---
 
@@ -66,6 +66,7 @@ Participei como residente voluntário temporário em um projeto real com cliente
     - Swagger
     - Bcrypt
     - Jsonwebtoken
+    - Yup
     - Nodemon
     - date-fns
     - Jest
