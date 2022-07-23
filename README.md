@@ -76,9 +76,9 @@ Participei como residente voluntário temporário em um projeto real com cliente
     - Html.
     - Css.
     - Styled components
-    - scss
-    - react-router-dom
-    - react-use
+    - Scss
+    - React-router-dom
+    - React-use
 
 3. Ferramentas:
     - Docker
