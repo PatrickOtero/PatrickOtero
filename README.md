@@ -10,7 +10,7 @@
 
  ## Permita-me falar um pouco sobre mim:
 
-<h4>Patrick da Rocha Otero, 24 anos.</h4>
+<h4>Patrick da Rocha Otero, 25 anos.</h4>
 
 Sou um amante da área da tecnologia de informação desde pequeno. Minha paixão começou com a simplicidade e ingenuidade em me divertir com jogos eletrônicos e, com o tempo, evoluiu para o interesse em compreender a forma como cada detalhe de tudo que eu vejo apresentado na tela (software) é criado a partir de componentes físicos (hardware) com tamanha precisão, como por exemplo: Como conseguiram fazer com que um mouse fosse capaz de mover um "pointer" através de interfaces e também, como essas interfaces permitem interação? Como o hardware interpreta comandos de dispositivos de entrada e os transforma em um resultado gráfico em dispositivos de saída? E mais complexo ainda, como conseguimos armazenar informações complexas eletricamente, separadamente, acessíveis, em componentes físicos que ainda conseguem ser representadas visualmente e virtualmente?
 
