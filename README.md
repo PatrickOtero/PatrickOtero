@@ -54,18 +54,43 @@ Participei como residente voluntário temporário em um projeto real com cliente
 
 ---
 
-## Linguagens que uso
+## TECNOLOGIAS QUE USO
 
 1. <strong>Backend:</strong>
     - Javascript
     - Typescript
     - SQL
+    - Express
+    - Knex
+    - Nodemailer
+    - Swagger
+    - Bcrypt
+    - Jsonwebtoken
+    - Nodemon
+    - date-fns
+    - Jest
+    - Git
+
 2. <strong>Frontend:</strong>
+    - React.
     - Html.
     - Css.
-    - React.
+    - Styled components
+    - scss
+    - react-router-dom
+    - react-use
 
-3. Noções básicas em C.
+3. Ferramentas:
+    - Docker
+    - Insomnia
+    - Beekeeper
+    - Vscode
+    - Github
+    - Gitlab
+    - Notion
+    - Clickup
+    - Slack
+    - Discord
 
 ### Informações importantes:
   - Motores/compiladores que uso: 
