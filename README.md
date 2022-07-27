@@ -73,9 +73,9 @@ Participei como residente voluntário temporário em um projeto real com cliente
     - Git
 
 2. <strong>Frontend:</strong>
-    - React.
-    - Html.
-    - Css.
+    - React
+    - Html
+    - Css
     - Styled components
     - Scss
     - React-router-dom
@@ -90,8 +90,6 @@ Participei como residente voluntário temporário em um projeto real com cliente
     - Gitlab
     - Notion
     - Clickup
-    - Slack
-    - Discord
 
 ### Informações importantes:
   - Motores/compiladores que uso: 
