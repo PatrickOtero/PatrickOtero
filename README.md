@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center"> 
-  Desenvolvedor back e front em Node.js
+  Desenvolvedor full stack Node.js
 </h2>
 
  ## Permita-me falar um pouco sobre mim:
