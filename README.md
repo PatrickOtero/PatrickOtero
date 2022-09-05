@@ -4,8 +4,6 @@
     <img alt="Patrick da Rocha Otero" title="#Patrick da Rocha Otero" src="/resources/Header.gif"/>
 </h1>
 
-- Os projetos precisam ser testados localmente, pois os servidores back-end estavam hospedados na heroku e a mesma está cancelando os serviços gratuitos, como banco de dados postgres, que é justamente o que eu usei nos meus projetos. Ainda estou decidindo para qual serviço de deploy vou migrá-los.
-
 <h2 align="center"> 
   Desenvolvedor full stack Node.js
 </h2>
