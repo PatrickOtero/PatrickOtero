@@ -8,7 +8,7 @@
   Desenvolvedor full stack Node.js
 </h2>
 
-### AVISO: O Backend das aplicações podem estar inativas em algum momento devido aos planos gratuítos que uso nos serviços de hospedagem que escolhi. Meu site pessoal, Oterofficia, tem mais tempo de duração online, já os outros precisam ser desligados quando vou dormir para que eles não consumam os dados de madrugada e com isso acabem ficando online só por uma semana. Se você por acaso tentar usar alguma aplicação e ela não funcionar, provavelmente é porque seus "Backends" foram desligados, ou por terem usado todos os dados disponibilizados ou por mim mesmo para a economia desses mesmos dados. Muito Obrigado pela compreensão.
+### AVISO: O Backend das aplicações pode estar inativo em algum momento devido aos planos gratuítos que uso nos serviços de hospedagem que escolhi. Meu site pessoal, Oterofficia, tem mais tempo de duração online, já os outros precisam ser desligados quando vou dormir para que eles não consumam os dados de madrugada e com isso acabem ficando online só por uma semana. Se você por acaso tentar usar alguma aplicação e ela não funcionar, provavelmente é porque seus "Backends" foram desligados, ou por terem usado todos os dados disponibilizados ou por mim mesmo para a economia desses mesmos dados. Muito Obrigado pela compreensão.
 
  ## Permita-me falar um pouco sobre mim:
 
