@@ -22,7 +22,7 @@ Aos meus 24 anos então decidi ingressar definitivamente nesta área que me gera
 
 Iniciei então meus estudos na área de T.I em dezembro de 2020 ingressando em uma graduação em nível tecnólogo em Análise e Desenvolvimento de Sistemas para entender de uma vez por todas qual setor tecnológico seguiria. Não demorou muito até que eu descobrisse que minha paixão está no desenvolvimento de softwares. Devido à isso, procurei por cursos com programas gratuitos que permitissem a formação sem custos, ou com custos após contratação, como o programa Sucesso Compartilhado, por exemplo, oferecido pela Provi, encontrando assim o curso de Desenvolvimento de Softwares da edtech Cubos Academy. O curso foi iniciado em agosto de 2022 e finalizado com sucesso em março de 2022, onde me familiarizei com Node, Javascript, PostgreSQL, React, Html e Css.
 
-Participei como residente voluntário temporário em um projeto real com cliente real na edtech Cubos Academy entre junho e julho de 2022, onde pude me familiarizar com tecnologias de testes unitários e integrais como Jest e Supertest e com o conceito e a prática de "migrations" e "seeds" com "knex.js". Também participei de eventos da área como os atuais hackatons da ProviHack para aprimorar meus conhecimentos como desenvolvedor full stack e aumentar minhas chances de conseguir minha primeira oportunidade no mercado da área.
+Fui selecionado para participar como residente voluntário em um projeto real na Cubos Academy entre junho e julho de 2022, no projeto Capital de Impacto, onde pude me familiarizar com tecnologias de testes unitários e integrais como Jest e Supertest e com o conceito e a prática de "migrations" e "seeds" com "knex.js". Também participei do evento Provihack 2022 - Não existe planeta b na equipe GreenPoints para aprimorar meus conhecimentos como desenvolvedor backend e frontend e aumentar minhas chances de conseguir minha primeira oportunidade no mercado da área, onde também conheci um grande profissional da área: Paulo dos Anjos, UX/UI da IBM, que com sua imensa boa vontade me deu dicas e orientações e permanece em contato comigo até hoje, me orientando quando preciso, e claro, quando ele pode.
 
 ---
 
@@ -94,7 +94,7 @@ Participei como residente voluntário temporário em um projeto real com cliente
     - Clickup
 
 ### Informações importantes:
-  - Motores/compiladores que uso: 
+  - Motores/Interpretadores/Compiladores que uso: 
     - Node
-  - Padrão de princípios para a criação de API's: 
+  - Arquitetura de software para a criação de APIs: 
     - REST.
