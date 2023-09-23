@@ -1,5 +1,3 @@
-
-</p>
 <h1 align="center">
     <img alt="Patrick da Rocha Otero" title="#Patrick da Rocha Otero" src="/resources/Header.gif"/>
 </h1>
