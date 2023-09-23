@@ -62,11 +62,6 @@ Fui selecionado para participar como residente voluntário em um projeto real na
     - Typeorm
     - Nodemailer
     - Swagger
-    - Bcrypt
-    - Jsonwebtoken
-    - Yup
-    - Nodemon
-    - date-fns
     - Jest
     - Git
 
