@@ -22,6 +22,8 @@ Iniciei então meus estudos na área de T.I em dezembro de 2020 ingressando em u
 
 Fui selecionado para participar como residente voluntário em um projeto real na Cubos Academy entre junho e julho de 2022, no projeto Capital de Impacto, onde pude me familiarizar com tecnologias de testes unitários e integrais como Jest e Supertest e com o conceito e a prática de "migrations" e "seeds" com "knex.js". Também participei do evento Provihack 2022 - Não existe planeta b na equipe GreenPoints para aprimorar meus conhecimentos como desenvolvedor backend e frontend e aumentar minhas chances de conseguir minha primeira oportunidade no mercado da área.
 
+Tenho também experiência voluntária. Fui selecionado para atuar na iniciativa SouJunior como desenvolvedor back-end Node deste abril de 2023 e permaneço até hoje, já atuando em três produtos diferentes desenvolvendo tanto no front-end quanto no back-end.
+
 ## ⚙️ Progresso acadêmico e profissional.
 
   - [x] <strong>Ensino Superior:</strong>
@@ -44,7 +46,7 @@ Fui selecionado para participar como residente voluntário em um projeto real na
  - [x] Empregado fora da área.
     - [x] - Com experiência voluntária na área.
         - [x] - 1 mes trabalhando no projeto Capital de Impacto na Cubos Academy.
-        - [x] - trabalhando como voluntário por 6 meses na SouJunor.
+        - [x] - trabalhando como voluntário na SouJunor desde abril de 2023.
 ---
 
 ---
